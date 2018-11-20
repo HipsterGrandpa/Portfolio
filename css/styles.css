@@ -1,4 +1,16 @@
-.bio{
+body{
+  font-family: "Verdana", sans-serif;
+}
+img.bio {
   float: right;
-  width: 80%;
+  border:3px solid black;
+  margin: 10px;
+  margin-top: -50px;
+}
+.whats-up-guys-moe-tv-here {
+  margin: auto;
+  width: 48%;
+}
+.error {
+  background-color: salmon;
 }
